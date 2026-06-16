@@ -70,7 +70,7 @@ Machine-Learning/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Machine-Learning.git
+https://github.com/yuvaraj18102004/Machine-learning/edit/main/README.md
 ```
 
 ### Navigate to the Project
